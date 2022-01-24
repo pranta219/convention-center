@@ -1,13 +1,20 @@
+/* Fonts */
 body{
     font-family: 'Poppins', sans-serif;
+
+/* color-chenge */
 }.i-color{
     color: #5243C2;
 }
+
+/* btn-chenge */
 .btn-color{
     background: #F496D1;
     text-decoration: none;
     color: white;
 }
+
+/* section-chenge */
 .section-color{
     background-image: radial-gradient(#E6DADA, #274046);
 }
